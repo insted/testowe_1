@@ -1,0 +1,26 @@
+ver 0.15 
+- Poprawiono funkcję główną, dzięki czemu po uruchomieniu programu wyniki są wyświetlane w pętli, 
+  przy bardzo niskim obciążeniu zasobów procesora. 
+- Dodano funkcję zamieniająca float na str z zaokrągleniem wyniku.
+ver 0.1 milestone!  
+- Dodano funkcje pomiarowa, dzieki czemu nie ma juz zamulajacej petli while. 
+- Poprawiono wykresy.  
+- Dodano pomiar w belce okna pomiarowego. 
+ver 0.05 
+- Dodano wyniki na starcie. 
+
+ver 0.04 
+- Poprawiono wyświetlanie pomiaru, usunięto bug niewiarygodnego pomiaru.
+- Dodano kompletny zapis danych do pliku. 
+
+ver 0.03 
+- Dodano możliwość aktualizacji parametrów bez konieczności zamykania okna. 
+- Zmiana nazwy okna parametrów. 
+- Dodano możliwość edycji wszystkich parametrów.
+- Bug związany z wykresem został rozwiązany --pylab.
+
+TODO: 
+- Przerobić wykresy,  
+- Dodać zapis do eprom, 
+- Dodać obsługę błędów,
+- Dodać widok wyników średnich,
